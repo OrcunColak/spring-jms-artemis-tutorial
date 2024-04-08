@@ -1,0 +1,9 @@
+/.idea/
+/spring-multimodule-tutorial.iml
+/traveller/traveller.iml
+/itenary/itenary.iml
+
+# Project exclude paths
+/consumer/target/
+/messages/target/
+/producer/target/
